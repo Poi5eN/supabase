@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://www.misha.wtf/_next/image?url=%2Fblog%2Fsupabase-auth-next-13-pkce%2Fcover.png&w=640&q=100" alt="Banner image" />
-</p>
+<!--   <img src="https://www.misha.wtf/_next/image?url=%2Fblog%2Fsupabase-auth-next-13-pkce%2Fcover.png&w=640&q=100" alt="Banner image" /> -->
+<!-- </p> -->
 
 ## Overview
 
@@ -34,7 +34,7 @@ This repo is meant to be an **example** only. Please feel free to fork it and ma
 
 ## Author
 
-[Mykhaylo Ryechkin](https://github.com/mryechkin)
+[Poi5eN](https://github.com/Poi5eN)
 
 ## License
 
